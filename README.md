@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renan Pereira
-- 👀 I’m interested in ... "Ampreder Programção"
-- 🌱 I’m currently learning ... c#
+- 👀 I’m interested in ... Aprender programar...
+2- 🌱 I’m currently learning ... c#
 - 💞️ I’m looking to collaborate on ... qualquer projet para iniciantes em backend
 - 📫 How to reach me ... renanpereiraprog@gmail.com
 
